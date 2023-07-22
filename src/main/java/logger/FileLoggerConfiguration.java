@@ -1,5 +1,6 @@
 package logger;
 
+
 class FileLoggerConfiguration {
     private String filePath;
     private String logDirectory;
