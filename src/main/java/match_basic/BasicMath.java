@@ -57,6 +57,4 @@ public class BasicMath {
         System.out.println("Квадратний корінь числа " + a + ": " + squareRoot(a));
         System.out.println("Абсолютне значення числа " + b + ": " + absoluteValue(b));
     }
-
-
 }
